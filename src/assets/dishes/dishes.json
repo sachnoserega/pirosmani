@@ -1,0 +1,418 @@
+
+
+[
+    {
+        "id": 0,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/c91/c914d379072b035cfb9834fbdf388d14.jpg",
+        "name": "Суп хинкали",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "порция",
+            "двойная"
+        ],
+        "price": 475,
+        "category": 1,
+        "rating": 4
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://bbulvar.ru/upload/iblock/957/95791f87a7c2a9576c2215ef83766aff.jpg",
+        "name": "Дюшбара",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "порция",
+            "двойная"
+        ],
+        "price": 425,
+        "category": 1,
+        "rating": 6
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://bbulvar.ru/upload/iblock/c42/c42b80399844eae69769cda71d44c407.jpg",
+        "name": "Соютма из баранины",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "порция",
+            "двойная"
+        ],
+        "price": 695,
+        "category": 1,
+        "rating": 6
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://bbulvar.ru/upload/iblock/d10/d10b3520558bd3ff1d3382c686c1bb4f.jpg",
+        "name":  "Крем-суп из шампиньонов",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "порция",
+            "двойная"
+        ],
+        "price": 435,
+        "category": 1,
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/835/835a87ace0377d113815d327a781856f.jpg",
+        "name": "Борщ с телятиной",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "порция",
+            "двойная"
+        ],
+        "price": 410,
+        "category": 1,
+        "rating": 9
+    },
+    {
+        "id": 5,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/20f/20f9a8867a9894564bd4041ec59a1e69.jpg",
+        "name": "Шашлык из бараньих семенников",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г",
+            "300 г",
+            "500 г"
+        ],
+        "price": 650,
+        "category": 2,
+        "rating": 6
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://bbulvar.ru/upload/iblock/236/2367ac3143f8c06c1175a45f0fa7f89a.jpg",
+        "name": "Форель на углях",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г",
+            "300 г",
+            "500 г"
+        ],
+        "price": 1020,
+        "category": 2,
+        "rating": 4
+    },
+    {
+        "id": 7,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/c54/c54ac4065d23bb7afe6126261bc76cc9.jpg",
+        "name": " Королевские Креветки на углях",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г",
+            "300 г",
+            "500 г"
+        ],
+        "price": 1260,
+        "category": 2,
+        "rating": 4
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://bbulvar.ru/upload/iblock/eec/eeca1fc3e49712abe7ad6fb40f2bb75b.jpg",
+        "name": "Шашлык из говяжьей вырезки “Бастурма“",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г",
+            "300 г",
+            "500 г"
+        ],
+        "price": 960,
+        "category": 2,
+        "rating": 4
+    },
+    {
+        "id": 9,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/af8/af86119b7115a32915de84dcaf9c5051.jpg",
+        "name": "Шашлык из свиных ребрышек",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г",
+            "300 г",
+            "500 г"
+        ],
+        "price": 450,
+        "category": 2,
+        "rating": 4
+    },
+    {
+        "id": 10,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/081/08124239c4ee2bfaafd374817b3fb568.jpg",
+        "name": "Шашлык из бараньей печени с курдюком",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г",
+            "300 г",
+            "500 г"
+        ],
+        "price": 555,
+        "category": 2,
+        "rating": 4
+    },
+    {
+        "id": 11,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/df5/df514380cc82bd8c3999d0e6ccf3c369.jpg",
+        "name": "Салат с авокадо",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            26,
+            30,
+            40
+        ],
+        "price": 680,
+        "category": 3,
+        "rating": 4
+    },
+    {
+        "id": 12,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/c17/c172101914a20d09075147176ee22b5f.jpg",
+        "name": "Салат столичный с куриным филе",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "150 г"
+        ],
+        "price": 450,
+        "category": 3,
+        "rating": 4
+    },
+    {
+        "id": 13,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/697/697f2f1394951696063a2384ac5107e3.jpg",
+        "name": "Теплый салат с куриной печенью",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "150 г"
+        ],
+        "price": 660,
+        "category": 3,
+        "rating": 4
+    },
+    {
+        "id": 14,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/e65/e655a116fd0b5dc339833dfd0f419e73.jpg",
+        "name": "Салат Цезарь с курицей",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "150 г"
+        ],
+        "price": 720,
+        "category": 3,
+        "rating": 4
+    },
+    {
+        "id": 15,
+        "imageUrl":"https://bbulvar.ru/upload/iblock/6a4/6a4a57a49c3f5da40ceb83a277a19815.jpg",
+        "name": "Салат Капрезе",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "150 г"
+        ],
+        "price": 815,
+        "category": 3,
+        "rating": 4
+    },
+    {
+        "id": 16,
+        "imageUrl":"https://bbulvar.ru/upload/resize_cache/iblock/b68/2000_2000_1/b68f5069941ecbd8afa5144bed9ef1b3.jpg",
+        "name": "Кетчуп томатный",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г"
+        ],
+        "price": 80,
+        "category": 4,
+        "rating": 4
+    },
+    {
+        "id": 17,
+        "imageUrl":"https://bbulvar.ru/upload/resize_cache/iblock/b68/2000_2000_1/b68f5069941ecbd8afa5144bed9ef1b3.jpg",
+        "name": "Нардашан",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г"
+        ],
+        "price": 80,
+        "category": 4,
+        "rating": 4
+    },    
+    {
+        "id": 18,
+        "imageUrl":"https://bbulvar.ru/upload/resize_cache/iblock/b68/2000_2000_1/b68f5069941ecbd8afa5144bed9ef1b3.jpg",
+        "name": "Ткемали зеленый",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г"
+        ],
+        "price": 80,
+        "category": 4,
+        "rating": 4
+    },    
+    {
+        "id": 19,
+        "imageUrl":"https://bbulvar.ru/upload/resize_cache/iblock/b68/2000_2000_1/b68f5069941ecbd8afa5144bed9ef1b3.jpg",
+        "name": "Хрен столовый",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г"
+        ],
+        "price": 80,
+        "category": 4,
+        "rating": 4
+    }, 
+       {
+        "id": 20,
+        "imageUrl":"https://bbulvar.ru/upload/resize_cache/iblock/b68/2000_2000_1/b68f5069941ecbd8afa5144bed9ef1b3.jpg",
+        "name": "Горчица",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г"
+        ],
+        "price": 80,
+        "category": 4,
+        "rating": 4
+    },
+    {
+        "id": 21,
+        "imageUrl":"https://bbulvar.ru/upload/resize_cache/iblock/b68/2000_2000_1/b68f5069941ecbd8afa5144bed9ef1b3.jpg",
+        "name": "Масло оливковое",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г"
+        ],
+        "price": 80,
+        "category": 4,
+        "rating": 4
+    },
+    {
+        "id": 22,
+        "imageUrl":"https://bbulvar.ru/upload/resize_cache/iblock/b68/2000_2000_1/b68f5069941ecbd8afa5144bed9ef1b3.jpg",
+        "name": "Чесночный соус",
+        "type": [
+            0,
+            1
+        ],
+        "sizes": [
+            "100 г"
+        ],
+        "price": 80,
+        "category": 4,
+        "rating": 4
+    },
+    {
+    "id": 23,
+    "imageUrl":"https://bbulvar.ru/upload/iblock/924/924166d8c120003978278efe1b519f2f.jpg",
+    "name": "Хачапури по-аджарски",
+    "type": [
+        0,
+        1
+    ],
+    "sizes": [
+        26,
+        30,
+        40
+    ],
+    "price": 510,
+    "category": 5,
+    "rating": 4
+},
+{
+    "id": 24,
+    "imageUrl":"https://bbulvar.ru/upload/iblock/86a/86a195578e25042ca40d94ed45a59e68.jpg",
+    "name": "Кутаб с зеленью",
+    "type": [
+        0,
+        1
+    ],
+    "sizes": [
+        26,
+        30,
+        40
+    ],
+    "price": 190,
+    "category": 5,
+    "rating": 4
+},
+{
+    "id": 25,
+    "imageUrl":"https://bbulvar.ru/upload/iblock/f3a/f3aab4695771735e2e4a3b2c3e49da58.jpg",
+    "name": "Яичница с помидорами",
+    "type": [
+        0,
+        1
+    ],
+    "sizes": [
+       "порция",
+       "двойная"
+    ],
+    "price": 460,
+    "category": 5,
+    "rating": 4
+}
+]
